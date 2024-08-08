@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1>Hi, I'm Micaela!
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Global Air Quality Analysis</b>
+  - [Praciting DS & Algos in Python](https://github.com/micaelahornok/)
 
 <!--
 **micaelahornok/micaelahornok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
