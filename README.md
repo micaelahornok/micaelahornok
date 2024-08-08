@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Global Air Quality Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/micaelahornok/)
+- <b>Comprehensive US Sales Analysis and Dashboard</b>
+  - [Repository](https://github.com/micaelahornok/sales-analysis)
+  - [Dashboard](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing)
+- <b>Global Air Quality Analysis and Dashboard</b>
+  - [Repository](https://github.com/micaelahornok/global-air-pollution-analysis)
+  - [Dashboard](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 <!--
 **micaelahornok/micaelahornok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
