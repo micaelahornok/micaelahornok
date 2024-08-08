@@ -1,4 +1,3 @@
-<h1>Hi, I'm Micaela!
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
