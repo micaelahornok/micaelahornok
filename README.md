@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Comprehensive US Sales Analysis and Dashboard</b>
-  - [Repository](https://github.com/micaelahornok/sales-analysis)
+  - [Repository](https://github.com/micaelahornok/sales-analysis/blob/main/README.md)
   - [Dashboard](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing)
 - <b>Global Air Quality Analysis and Dashboard</b>
-  - [Repository](https://github.com/micaelahornok/global-air-pollution-analysis)
+  - [Repository](https://github.com/micaelahornok/global-air-pollution-analysis/blob/main/README.md)
   - [Dashboard](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
